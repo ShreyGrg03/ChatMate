@@ -75,14 +75,14 @@ Before running the application, ensure you have the following installed:
 
 ## Notes
 
-- Make sure to replace `your_openai_api_key` and `your_mongodb_uri` with your
+- Make sure to replace `your_openai_api_key` and `your_mongodb_url` with your
   actual OpenAI API key and MongoDB connection URI in the `.env` file.
 
 ## Website Screenshots
 
 ### Home Page
 
-![Home Page](readme_content/home.png)
+![Home Page]![Screenshot 2024-07-18 001258](https://github.com/user-attachments/assets/e0ec50d0-1321-4922-b960-dd767ad95aa7)
 
 ### Login Page
 
