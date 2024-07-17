@@ -86,12 +86,14 @@ Before running the application, ensure you have the following installed:
 
 ### Login Page
 
-![Screenshot 2024-07-18 001319](https://github.com/user-attachments/assets/19cd6b6e-b84e-4703-8d67-37f3cafcdb1d)
+![image](https://github.com/user-attachments/assets/e0e67748-aacb-425e-9300-726e217acc9b)
+
 
 
 ### SignUp Page
 
-![image](https://github.com/user-attachments/assets/9554ed4f-4fcf-4969-972a-435af861ab74)
+![image](https://github.com/user-attachments/assets/2a2f1d38-64d3-4715-bdf2-704610da1b9f)
+
 
 
 ### Chat Page
