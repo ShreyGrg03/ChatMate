@@ -82,21 +82,21 @@ Before running the application, ensure you have the following installed:
 
 ### Home Page
 
-[Screenshot 2024-07-18 001258](https://github.com/user-attachments/assets/e0ec50d0-1321-4922-b960-dd767ad95aa7)
+![Screenshot 2024-07-18 001258](https://github.com/user-attachments/assets/e0ec50d0-1321-4922-b960-dd767ad95aa7)
 
 ### Login Page
 
-[Screenshot 2024-07-18 001319](https://github.com/user-attachments/assets/19cd6b6e-b84e-4703-8d67-37f3cafcdb1d)
+![Screenshot 2024-07-18 001319](https://github.com/user-attachments/assets/19cd6b6e-b84e-4703-8d67-37f3cafcdb1d)
 
 
 ### SignUp Page
 
-[image](https://github.com/user-attachments/assets/9554ed4f-4fcf-4969-972a-435af861ab74)
+![image](https://github.com/user-attachments/assets/9554ed4f-4fcf-4969-972a-435af861ab74)
 
 
 ### Chat Page
 
-[image](https://github.com/user-attachments/assets/fa95ba0f-3820-460a-9b44-9c5ca247108b)
+![image](https://github.com/user-attachments/assets/fa95ba0f-3820-460a-9b44-9c5ca247108b)
 
 
 
