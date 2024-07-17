@@ -30,9 +30,9 @@ Before running the application, ensure you have the following installed:
 
 1.  Clone the repository:
 
-    
+    ```
     git clone https://github.com/ShreyGrg03/ChatMate
-    
+    ```
 
 2.  Navigate to the project directory:
 
