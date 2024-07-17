@@ -30,7 +30,7 @@ Before running the application, ensure you have the following installed:
 
 1.  Clone the repository:
 
-    
+    ```
     git clone https://github.com/ShreyGrg03/ChatMate
     
 
@@ -42,7 +42,7 @@ Before running the application, ensure you have the following installed:
 
 3.  Install dependencies for both the client and server:
 
-    ```bash
+    ```
     # Install frontend dependencies
     cd frontend
     npm install
@@ -56,14 +56,14 @@ Before running the application, ensure you have the following installed:
 
     Create the `.env` file in the `backend` directory and add the following variables:
 
-        ```bash
+        ```
         OPENAI_API_KEYSET=your_openai_api_key
         MONGODB_URL=your_mongodb_uri
         ```
 
 5.  Start the application:
 
-    ```bash
+    ```
     # Start the client (in the frontend directory)
     cd frontend
     npm run dev
