@@ -1,4 +1,4 @@
-# Chat Mate Ai
+# Chat Mate AI
 
 ## Overview
 
@@ -54,11 +54,11 @@ Before running the application, ensure you have the following installed:
 
 4.  Configure environment variables:
 
-    Modify the `.env.txt` file in the `backend` directory and add the following variables and rename it to `.env`:
+    Create the `.env` file in the `backend` directory and add the following variables:
 
         ```bash
-        OPENAI_API_KEY=your_openai_api_key
-        MONGODB_URI=your_mongodb_uri
+        OPENAI_API_KEYSET=your_openai_api_key
+        MONGODB_URL=your_mongodb_uri
         ```
 
 5.  Start the application:
